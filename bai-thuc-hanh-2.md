@@ -26,7 +26,7 @@ Yêu cầu cấu trúc bài viết chuẩn SEO:
 ```
 ***Prompt 3:***
 ```
-Bạn là một Copywriter chuyên nghiệp trong lĩnh vực công nghệ B2B.
+Bạn là một Copywriter chuyên nghiệp trong lĩnh vực công nghệ.
 
 Dữ liệu đầu vào: [output của bước trên]
 
